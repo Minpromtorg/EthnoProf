@@ -21,3 +21,4 @@ EthnoProf - аддон для WoW Sirus 3.3.5 позволяющий просм�
 
 
 <img width="794" height="674" alt="image" src="https://github.com/user-attachments/assets/40530462-c6e2-4383-9699-1e17d5f19ee1" />
+<img width="858" height="603" alt="image" src="https://github.com/user-attachments/assets/0de3b6dc-051c-4ef6-95e9-96c411ab867c" />
