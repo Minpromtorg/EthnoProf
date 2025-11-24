@@ -1,7 +1,9 @@
 ## Interface: 30300
 ## Title: EthnoProf
 ## Notes: Аддон, добавляющий привычный графический интерфейс окна профессии "Этнография" с кнопкой быстрого доступа из книги заклинаний
-## Author: Министерство промышленности и торговли
+## Author: Минпромторг
 ## Version: 1.0
+## X-Sirus-Update https://github.com/Minpromtorg/EthnoProf/tree/main/EthnoProf
 ## SavedVariablesPerCharacter: EthnoProfDB
+
 EthnoProf.lua
