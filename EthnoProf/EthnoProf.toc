@@ -1,7 +1,0 @@
-## Interface: 30300
-## Title: EthnoProf
-## Notes: Ethnography offline for Sirus
-## Author: Њинистерство промышленности и торговли
-## Version: 1.0
-## SavedVariablesPerCharacter: EthnoProfDB
-EthnoProf.lua
